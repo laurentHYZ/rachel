@@ -1,0 +1,18 @@
+
+#+ATTR_ORG: :width 200/250/300/400/500/600
+#+ATTR_LATEX: :width 2.0in
+#+ATTR_HTML: :width 200/250/300/400/500/600px
+#+REVEAL_TITLE_SLIDE: <h2>%t</h2><h3>%s</h3><p>%A %a</p><p><a href="%u">%u</a></p>
+#+REVEAL_THEME: moon
+# ./assets/stars.jpg
+#+REVEAL_TITLE_SLIDE_BACKGROUND: https://images.freeimages.com/images/large-previews/f0d/night-sky-1401615.jpg
+
+
+
+* do this
+and this will happen
+* do that
+and something else will happen
+* as;dkljfs df
+** akdsjf
+** as;kdjf
